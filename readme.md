@@ -103,3 +103,5 @@ This document outlines the step-by-step process for Authorized Personnel to acce
 ## Conclusion
 
 This document outlines the secure and step-by-step process for Authorized Personnel to access user data using the AI-based Unique Identification Card System (UICS), incorporating a maximum of three attempts for both facial recognition and fingerprint authentication. Access is granted only if the required authentication steps are successfully completed within the specified limit.
+
+![flowchart.png](flowchart.png)
